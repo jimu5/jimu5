@@ -1,3 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kimiato&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### Hello World 👋
 
-### 你好，世界 👋
+<a href="https://github.com/Kimiato">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kimiato&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Kimiato">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimiato&layout=compact" />
+</a>
